@@ -1,0 +1,12 @@
+[
+    {
+        "name": "AttachSocketByAnimationSequence",
+        "label": "Attach Socket by Animation Sequence",
+        "tool_tip": "",
+        "section": "Animation",
+        "type": 0,
+        "command": "AttachSocketWnd().show()",
+        "path": "",
+        "subs": []
+    }
+]
